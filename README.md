@@ -28,4 +28,4 @@
 ---
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=rslywhj/Easy-Work&type=Timeline)](https://star-history.com/#rslywhj/Easy-Work&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=rslywhj/Easy-Work&type=Date)](https://star-history.com/#rslywhj/Easy-Work&Date)
